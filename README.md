@@ -83,11 +83,7 @@
 
 ---
 
-## 🏆 Achievements
-- 🏅 **Hacktoberfest 2024** Contributor
-- 🧠 Solved **250+ DSA Problems** on LeetCode & GFG
-- 🧪 Top 20% in Titanic, Top 15% in House Prices competitions on Kaggle
-- ⚙️ Contributed to multiple open-source projects
+
 
 ---
 
