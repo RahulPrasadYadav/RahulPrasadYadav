@@ -70,15 +70,8 @@
   <a href="https://twitter.com/yrahul8777" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" />
   </a>
-  <a href="https://www.codechef.com/users/rahulprasadyad" target="_blank">
-    <img src="https://img.shields.io/badge/Codechef-323330?logo=codechef&style=for-the-badge" />
-  </a>
-  <a href="https://codeforces.com/profile/rahulprasady" target="_blank">
-    <img src="https://img.shields.io/badge/Codeforces-1f8acb?logo=codeforces&style=for-the-badge" />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/yrahul8777" target="_blank">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-darkgreen?logo=geeksforgeeks&style=for-the-badge" />
-  </a>
+  
+  
 </p>
 
 ---
