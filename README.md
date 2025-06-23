@@ -1,30 +1,47 @@
 ![Banner](https://github.com/RahulPrasadYadav/RahulPrasadYadav/blob/main/github-Banner.png)
 
 <h1 align="center">Hi 👋, I'm Rahul Prasad Yadav</h1>
-<h3 align="center">🚀 Software Engineer | 💡 AI Enthusiast | 📊 Data Science Explorer</h3>
+<h3 align="center">🚀 Software Engineer | 💡 AI & ML Enthusiast | 📊 Data Science Explorer</h3>
 
 <img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtxaDBmZnBmdmM3dWNvZGk2aTNhMmo4ODRuODd1ejA0bXpxNjBsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.webp">
 
 ---
 
-- 🌱 Currently diving into **Deep Learning, MLOps & Large Language Models (LLMs)**
-- 👨‍💻 Actively contributing to Open Source & Kaggle ML competitions
-- 💼 Looking for **DS/ML internships or full-time SDE/ML roles**
-- 🧠 Building real-world projects: AI Health Diagnosis, Smart Lead Generator, Crop Disease Classifier, more…
+- 🌱 Currently learning **Deep Learning, MLOps & Large Language Models (LLMs)**
+- 👨‍💻 Solving DSA in **C++**, building ML projects, and competing on **Kaggle**
+- 💼 Open to DS/ML Internships and Entry-Level AI/Software roles
 - 📫 Reach me at: **yrahul8777@gmail.com**
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` `C++` `JavaScript` `HTML` `CSS`
+### 💻 Programming Languages:
+`Python` `C++ (DSA)` `JavaScript` `HTML5` `CSS3`
 
-**Libraries & Tools:**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn` `TensorFlow` `Streamlit` `Flask`
+### 📊 Data Science & ML:
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`  
+`XGBoost` `LightGBM` `CatBoost` `Statsmodels`
 
-**Developer Tools:**  
-`Git` `GitHub` `VS Code` `PostgreSQL` `MySQL` `Jupyter` `Colab` `Render`
+### 🧠 Deep Learning:
+`TensorFlow` `Keras` `PyTorch` `OpenCV`  
+`CNN` `RNN` `LSTM` `GRU` `Transformers`  
+`BERT` `GPT2` `HuggingFace Transformers` `SHAP` `Grad-CAM`
+
+### 📚 Math & Statistics:
+`Probability` `Linear Algebra` `Calculus`  
+`Statistics` `Bayes Theorem` `Hypothesis Testing`  
+`Gradient Descent` `Optimization` `Eigenvectors`  
+`Vector Calculus` `Matrix Multiplication`
+
+### ⚙️ MLOps & Deployment:
+`Flask` `FastAPI` `Streamlit` `Docker` `Render`  
+`MLflow` `GitHub Actions` `Model Explainability`
+
+### 🛢️ Databases & Tools:
+`MySQL` `PostgreSQL`  
+`Google Colab` `Jupyter Notebook` `VS Code`  
+`Git` `GitHub` `FAISS` `LangChain` `LlamaIndex`
 
 ---
 
@@ -35,22 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPrasadYadav&layout=compact&theme=radical" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulPrasadYadav&theme=radical" />
 </p>
-
----
-
-## 🚀 Featured Projects
-
-- 🎓 **[AI Health Diagnosis App](https://github.com/RahulPrasadYadav/AI-Health-Diagnosis-App)**  
-  Multi-disease predictor using deep learning (Diabetes, Heart, Alzheimer’s) with SHAP explainability and Flask UI
-
-- 📊 **[Student Performance Plan Generator](https://github.com/RahulPrasadYadav/Student_performance_plan_app)**  
-  ML model + Streamlit web app to predict student performance and suggest learning plans
-
-- ✈️ **[Flight Fare Predictor](https://github.com/RahulPrasadYadav/Flight_prediction)**  
-  Regression model predicting airline ticket prices using Random Forest & hyperparameter tuning
-
-- 🌿 **Crop Disease Detector** *(Coming Soon)*  
-  CNN-powered system to detect diseases from leaf images with deployment via Streamlit
 
 ---
 
@@ -90,12 +91,4 @@
 
 ---
 
-## 💼 Resume & Portfolio
-📄 **Resume**: [View Here](https://drive.google.com/drive/folders/1bF2bCPXhqGMQUEnj86pVJk2zZi89t_XX)  
-🌐 **Portfolio Website** *(Coming Soon)*
-
----
-
 📌 *“Always learning. Always building. Always shipping.”*
-
----
