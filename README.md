@@ -1,83 +1,77 @@
-![Banner](https://github.com/RahulPrasadYadav/RahulPrasadYadav/blob/main/github-Banner.png)
-
 <h1 align="center">Hi 👋, I'm Rahul Prasad Yadav</h1>
-<h3 align="center">🚀 Software Engineer | 💡 AI & ML Enthusiast | 📊 Data Science Explorer</h3>
-
-<img align="right" alt="coding" width="400" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmtxaDBmZnBmdmM3dWNvZGk2aTNhMmo4ODRuODd1ejA0bXpxNjBsbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jTNG3RF6EwbkpD4LZx/giphy.webp">
+<h3 align="center">🚀 Software Engineer | AI & ML Developer</h3>
 
 ---
 
-- 🌱 Currently learning **Deep Learning, MLOps & Large Language Models (LLMs)**
-- 👨‍💻 Solving DSA in **C++**, building ML projects, and competing on **Kaggle**
-- 💼 Open to DS/ML Internships and Entry-Level AI/Software roles
-- 📫 Reach me at: **yrahul8777@gmail.com**
+## 👨‍💻 About Me
+
+- 💡 Passionate about building real-world AI & ML solutions  
+- 🧠 Working with Deep Learning, LLMs & Data Science  
+- ⚡ Strong in Python, APIs, and backend development  
+- 🎯 Actively looking for freelance projects & opportunities  
+
+📩 **Email:** yrahul8777@gmail.com  
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Skills
 
-### 💻 Programming Languages:
-`Python` `C++ (DSA)` `JavaScript` `HTML5` `CSS3`
+### 💻 Programming
+- Python, C++, JavaScript  
+- HTML, CSS  
 
-### 📊 Data Science & ML:
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`  
-`XGBoost` `LightGBM` `CatBoost` `Statsmodels`
+### 🤖 AI / Machine Learning
+- Scikit-learn, XGBoost, LightGBM  
+- TensorFlow, PyTorch  
+- NLP, Transformers, LLMs  
 
-### 🧠 Deep Learning:
-`TensorFlow` `Keras` `PyTorch` `OpenCV`  
-`CNN` `RNN` `LSTM` `GRU` `Transformers`  
-`BERT` `GPT2` `HuggingFace Transformers` `SHAP` `Grad-CAM`
+### ⚙️ Backend & Deployment
+- Flask, FastAPI, Streamlit  
+- Docker, REST APIs  
 
-### 📚 Math & Statistics:
-`Probability` `Linear Algebra` `Calculus`  
-`Statistics` `Bayes Theorem` `Hypothesis Testing`  
-`Gradient Descent` `Optimization` `Eigenvectors`  
-`Vector Calculus` `Matrix Multiplication`
-
-### ⚙️ MLOps & Deployment:
-`Flask` `FastAPI` `Streamlit` `Docker` `Render`  
-`MLflow` `GitHub Actions` `Model Explainability`
-
-### 🛢️ Databases & Tools:
-`MySQL` `PostgreSQL`  
-`Google Colab` `Jupyter Notebook` `VS Code`  
-`Git` `GitHub` `FAISS` `LangChain` `LlamaIndex`
+### 🛢️ Database
+- MySQL, PostgreSQL  
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Projects
+
+### 🔹 AI / ML Projects
+- Built ML models for prediction & classification  
+- Worked on NLP & LLM-based applications  
+
+### 🔹 Web + API Projects
+- REST APIs using FastAPI & Flask  
+- Full-stack apps with backend integration  
+
+👉 Check my repositories for more details  
+
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulPrasadYadav&show_icons=true&theme=radical" alt="Rahul's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPrasadYadav&layout=compact&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RahulPrasadYadav&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulPrasadYadav&show_icons=true&theme=default" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulPrasadYadav&layout=compact" />
 </p>
 
 ---
 
-## 🌐 Connect with Me
+## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/rahul-prasad-yadav-0a37a31ab/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" />
-  </a>
-  <a href="https://leetcode.com/u/rahulprasadyadav/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-orange?logo=leetcode&style=for-the-badge" />
-  </a>
-  <a href="https://www.kaggle.com/helooohy" target="_blank">
-    <img src="https://img.shields.io/badge/Kaggle-blue?logo=kaggle&style=for-the-badge" />
-  </a>
-  <a href="https://twitter.com/yrahul8777" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" />
-  </a>
-  
-  
-</p>
+- LinkedIn: https://linkedin.com/in/rahul-prasad-yadav-0a37a31ab  
+- Kaggle: https://www.kaggle.com/helooohy  
+- LeetCode: https://leetcode.com/u/rahulprasadyadav/  
 
 ---
 
+## 💼 Available For
 
+✅ Freelance Projects  
+✅ AI / ML Development  
+✅ Backend Development  
+✅ Bug Fixing & API Integration  
 
 ---
 
-📌 *“Always learning. Always building. Always shipping.”*
+⭐ *Always building. Always improving.*
